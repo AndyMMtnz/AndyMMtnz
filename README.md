@@ -10,6 +10,12 @@ Actualmente me encuentro formándome en el Grado Superior de Desarrollo de Aplic
 ### ✅ Habilidades:
 
   - 🎤 **Actor de doblaje.**
+  <div align="center">
+  <a href="https://www.youtube.com/watch?v=1lvKrrHUFr0" target="_blank">
+  <img src="https://github.com/AndyMMtnz/Personalized-Icons/blob/main/Captura%20de%20pantalla%202024-10-27%20155034.png" alt="DEMO DOBLAJE 2023">
+  </a>
+</div>
+
   - ✏️ **Diseño y Edición fotográfica:**<br>
 
       | [![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) | [![AffinityPhoto](https://img.shields.io/badge/Affinity_Photo-4E3188?style=flat&logo=affinityphoto&logoColor=white)](https://affinity.serif.com/es/photo/?srsltid=AfmBOory5BvYx1VAeqDTK0P5biQB4oRzliU6cG8udbjSVk1eCEgi2XeL) | [![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)](https://www.gimp.org/) | [![Photopea](https://img.shields.io/badge/Photopea-18A497?style=flat&logo=photopea&logoColor=white)](https://www.photopea.com/) |
@@ -17,7 +23,6 @@ Actualmente me encuentro formándome en el Grado Superior de Desarrollo de Aplic
   - 📹 **Edición de vídeo:**
       | [![PremierePro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/es/products/premiere.html) | [![AfterEffects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/es/products/aftereffects.html) | [![WondershareFilmora](https://img.shields.io/badge/Wondershare_Filmora-07273D?style=flat&logo=wondersharefilmora&logoColor=white)](https://filmora.wondershare.net/es/editor-de-video/ad-filmora.html?gad_source=1&gclid=Cj0KCQjwpvK4BhDUARIsADHt9sQLmQn08eZONfUMDh0AP6Cxn1sz3r5BWmiZVZ30JVUFI7Lv0bLRxuEaAiyiEALw_wcB) | [![🎥 Clipchamp](https://img.shields.io/badge/🎥%20ClipChamp-9146FF?style=flat)](https://www.clipchamp.com/) |
       |---------------|-----------------------|----------|----------|
-  
 <!--
 **AndyMMtnz/AndyMMtnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
