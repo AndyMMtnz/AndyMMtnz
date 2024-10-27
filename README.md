@@ -12,7 +12,9 @@ Actualmente me encuentro formándome en el Grado Superior de Desarrollo de Aplic
   - 🎤 **Actor de doblaje.**
   <div align="center">
   <a href="https://www.youtube.com/watch?v=1lvKrrHUFr0" target="_blank">
-  <img src="https://github.com/AndyMMtnz/Personalized-Icons/blob/main/Captura%20de%20pantalla%202024-10-27%20155034.png" alt="DEMO DOBLAJE 2023">
+    <kbd>
+  <img src="https://github.com/AndyMMtnz/Personalized-Icons/blob/main/Captura%20de%20pantalla%202024-10-27%20155034.png" alt="DEMO DOBLAJE 2023" width="750"/>
+    </kbd>
   </a>
 </div>
 
