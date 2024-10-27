@@ -41,6 +41,12 @@ ____
 - **Lenguajes de programación** [![JavaScript](https://img.shields.io/badge/Java_Script-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/es/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 - Frameworks [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://es.react.dev/) [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/es/)
 - Bases de datos (BBDD) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)](https://cassandra.apache.org/_/index.html)
+## :octocat: Preferencias Tecnológicas:
+Basándome en mis gustos y trasfondo personal y profesional, disfrutaré centrándome en:
+          
+     - Frontend
+     - Diseño UI/UX
+     - Análisis de datos
 <!--
 **AndyMMtnz/AndyMMtnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
