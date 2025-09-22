@@ -2,7 +2,7 @@
 
 ## 👽 Una breve presentación sobre mí:
 <div align= "justify">
-Actualmente me encuentro formándome en el Grado Superior de Desarrollo de Aplicaciones Web <b>(DAW)</b>, pero soy <b>Técnico Superior en Animaciones 2D y 3D, Juegos y Entornos Interactivos.</b> Suelo realizar algunos proyectos relacionados con estas disciplinas, combinándolo con mi faceta favorita: "La actuación con la voz". Soy Actor de Doblaje Profesional desde mediados de 2023. Resumiendo, podríamos decir que soy un apasionado del doblaje, la música y los ordenadores.<br><br></div>Creo que este tío me describe muy bien:<br><br>
+Actualmente me encuentro formándome en el Grado Superior de Desarrollo de Aplicaciones Multiplataforma <b>(DAM)</b>, pero soy <b>Técnico Superior en Animaciones 2D y 3D, Juegos y Entornos Interactivos.</b> Suelo realizar algunos proyectos relacionados con estas disciplinas, combinándolo con mi faceta favorita: "La actuación con la voz". Soy Actor de Doblaje Profesional desde mediados de 2023. Resumiendo, podríamos decir que soy un apasionado del doblaje, la música y los ordenadores.<br><br></div>Creo que este tío me describe muy bien:<br><br>
 
 <div align="center">
   <img src="https://github.com/AndyMMtnz/Personalized-Icons/blob/main/giphyrecortado.gif" alt="Hombre con cabeza de ordenador y micrófono">
@@ -29,13 +29,23 @@ ____
       | [![PremierePro](https://img.shields.io/badge/Adobe_Premiere_Pro-db18d8?style=flat&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/es/products/premiere.html) | [![AfterEffects](https://img.shields.io/badge/Adobe_After_Effects-9933cc?style=flat&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/es/products/aftereffects.html) | [![WondershareFilmora](https://img.shields.io/badge/Wondershare_Filmora-07273D?style=flat&logo=wondersharefilmora&logoColor=white)](https://filmora.wondershare.net/es/editor-de-video/ad-filmora.html?gad_source=1&gclid=Cj0KCQjwpvK4BhDUARIsADHt9sQLmQn08eZONfUMDh0AP6Cxn1sz3r5BWmiZVZ30JVUFI7Lv0bLRxuEaAiyiEALw_wcB) | [![🎥 Clipchamp](https://img.shields.io/badge/🎥%20ClipChamp-9146FF?style=flat)](https://www.clipchamp.com/) |
       |----------|----------|----------|----------|
 ## :books: Datos relevantes sobre mis estudios actuales:
-  - **Centro de estudios:** CIFP "La Conservera"
-  - **Formación:** GS en Desarrollo de Aplicaciones Web
+  - **Centro de estudios:** IES Alfonso X El Sabio"
+  - **Formación:** GS en Desarrollo de Aplicaciones Multiplataforma
   - **Asignaturas:**
-<h3 align="center" style="text-align:center;">Estoy matriculado en:</h3>
+<h3 align="center" style="text-align:center;">Ya he cursado las asignaturas de primero siguientes:</h3>
 
 | Bases de datos | Digitalización aplicada al Sistema Productivo | Entornos de desarrollo | Lenguajes de marcas y sistema de gestión de información | Programación | Sistemas Informáticos |
 |----------------|-----------------------------------------------|------------------------|---------------------------------------------------------|--------------|-----------------------|
+
+<h3 align="center" style="text-align:center;">Actualmente matriculado en todas las asignaturas de 2º curso:</h3>
+
+| Acceso a datos (AD) | Programación multimedia (PMDM) |  Desarrollo de interfaces (DI) | Proyecto Intermodular (PI) | Fundamentos de IA (FIAG) | Sostenibilidad Aplicada al Sistema Productivo (SASP) | Programación de servicios (PSP) | Sistemas de Gestión Empresarial (SGE) |
+|---------------------|--------------------------------|--------------------------------|----------------------------|--------------------------|------------------------------------------------------|---------------------------------|-------------------------------------------|
+
+<h3 align="center" style="text-align:center;">Y recuperando dos asignaturas de primer curso:</h3>
+
+| Entornos de desarrollo | Lenguajes de marcas y sistema de gestión de información |
+|------------------------|---------------------------------------------------------|
 
 ## :octocat: Stack Tecnológico del Curso:
 - **Lenguajes de programación** [![JavaScript](https://img.shields.io/badge/Java_Script-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/es/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
